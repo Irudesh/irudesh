@@ -30,7 +30,7 @@ I believe in consistency — learning something new every day and staying curiou
 
 ### 📫 Connect With Me
 - **Email:** irangadesh@gmail.com  
-- **LinkedIn:** [http://linkedin.com/in/irangad]  
+- **LinkedIn:** http://linkedin.com/in/irangad
 - **GitHub:** [github.com/irangadeshani](https://github.com/irangadeshani)
 
 ---
