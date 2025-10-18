@@ -7,7 +7,7 @@ I enjoy working with **React, Node.js**. Most of my projects start with a simple
 
 ### 💻 Tech I Use & Enjoy
 - **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express, Java
+- **Backend:** Node.js, Express, Java, Spring Boot
 - **Database:** MsSQL, Firebase
 - **Other Tools:** Git, VS Code, Figma
 - **Currently Exploring:** Microsoft Azure, API development, and AI tools
@@ -15,8 +15,7 @@ I enjoy working with **React, Node.js**. Most of my projects start with a simple
 ---
 
 ### 🚀 A Few Projects
-- 🎟️ **Event Booking System** – React-based app for events, shows & movies  
-- ✅ **To-Do List App** – Simple but clean task management app   
+- 🎟️ **Inventory & Order Management System** – Java & Spring Boot based System.
 
 *(more projects coming soon…)*
 
