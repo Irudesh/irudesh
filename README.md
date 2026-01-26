@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Iranga Deshani
 
 I’m a **Software Engineering undergraduate** with a growing passion for building clean, practical software that actually helps people.  
-I enjoy working with **React, Node.js**. Most of my projects start with a simple idea that I try to make real — one step, one commit at a time.
+I enjoy working with **React, Node.js**. Most of my projects start with a simple idea that I try to make real one step, one commit at a time.
 
 ---
 
@@ -24,7 +24,7 @@ I enjoy working with **React, Node.js**. Most of my projects start with a simple
 
 ### 🌱 My Goals
 I’m focused on improving as a **developer** and building real-world projects that I can proudly share.  
-I believe in consistency — learning something new every day and staying curious.
+I believe in consistency learning something new every day and staying curious.
 
 ---
 
@@ -34,6 +34,5 @@ I believe in consistency — learning something new every day and staying curiou
 - **GitHub:** [github.com/irangadeshani](https://github.com/irangadeshani)
 
 ---
-
-⭐ *“Code. Learn. Create. Repeat.”*
+*“Code. Learn. Create. Repeat.”*
 
