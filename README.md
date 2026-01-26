@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Iranga Deshani
+Hey there, I'm Iranga Deshani
 
 I’m a **Software Engineering undergraduate** with a growing passion for building clean, practical software that actually helps people.  
 I enjoy working with **React, Node.js**. Most of my projects start with a simple idea that I try to make real one step, one commit at a time.
