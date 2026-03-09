@@ -92,7 +92,7 @@ Repository:
 ## 🌐 Connect With Me
 
 GitHub: https://github.com/irangadeshani  
-LinkedIn: (http://linkedin.com/in/irangad)
+LinkedIn: (http://linkedin.com/in/irangad) 
 Email: irangadeshani.nv@gmail.com
 
 ---
