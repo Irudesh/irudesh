@@ -1,7 +1,6 @@
 # Iranga Deshani
 
 **Software Development Undergraduate**  
-Web Systems | Databases | Data Analytics  
 
 📍 Sri Lanka
 
@@ -9,7 +8,7 @@ Web Systems | Databases | Data Analytics
 
 ## About Me
 
-I am a Software Development undergraduate passionate about building **structured web systems and data-driven applications**. I enjoy developing software that improves organisational workflows and transforms raw data into useful insights.
+I enjoy developing software that improves organisational workflows and transforms raw data into useful insights.
 
 My interests include **web development, database systems, and business intelligence solutions**.
 
@@ -20,7 +19,6 @@ My interests include **web development, database systems, and business intellige
 - Java  
 - JavaScript  
 - SQL  
-- Python
 ---
 
 ## 🛠 Technologies & Tools
@@ -85,7 +83,6 @@ Repository:
 - React Frontend Development  
 - Advanced SQL Query Optimisation  
 - Full Stack Web Development  
-- Data Analytics
 
 ---
 
@@ -95,6 +92,3 @@ GitHub: https://github.com/irangadeshani
 LinkedIn: (http://linkedin.com/in/irangad) 
 Email: irangadeshani.nv@gmail.com
 
----
-
-⭐ Always interested in learning new technologies and building impactful software solutions.
